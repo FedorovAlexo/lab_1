@@ -1,6 +1,7 @@
-name =
-age =
-city =
-country =
+name = Aleksandr
+age = 30
+city = Kherson
+country = Ukraine
 
-print(f'My name is {name}')
+print(f'My name is {Aleksandr}')
+
